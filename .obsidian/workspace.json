@@ -4,95 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "e3fe4b4c5b86e276",
+        "id": "3b5b92cf09e82a47",
         "type": "tabs",
         "children": [
           {
-            "id": "7b414ebb1222bb2f",
+            "id": "808e2ff63297438c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "128. Longest Consecutive Sequence.md",
+                "file": "645. Set Mismatch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "128. Longest Consecutive Sequence"
+              "title": "645. Set Mismatch"
             }
           },
           {
-            "id": "903fcacbdfee401c",
+            "id": "cde63e5c0f093ea3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "73 Set Matrices to Zero.md",
+                "file": "Count inversions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "73 Set Matrices to Zero"
+              "title": "Count inversions"
             }
           },
           {
-            "id": "8810fd19acddc90a",
+            "id": "50732676c403160b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48 rotate sorted array.md",
+                "file": "493. Reverse Pairs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "48 rotate sorted array"
+              "title": "493. Reverse Pairs"
             }
           },
           {
-            "id": "3c760e9fc49dcd71",
+            "id": "a9d3aaa1b8d723bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "560 Subarray equals sum k.md",
+                "file": "152. Maximum Product Subarray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "560 Subarray equals sum k"
-            }
-          },
-          {
-            "id": "84be5f7976de60c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "118 Pascal's triangle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "118 Pascal's triangle"
-            }
-          },
-          {
-            "id": "9e24b6c7db11705d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "229 Max Element ii.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "229 Max Element ii"
+              "title": "152. Maximum Product Subarray"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3b6bc121987d7465",
@@ -229,16 +202,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e24b6c7db11705d",
+  "active": "a9d3aaa1b8d723bb",
   "lastOpenFiles": [
+    "152. Maximum Product Subarray.md",
+    "493. Reverse Pairs.md",
+    "Count inversions.md",
+    "645. Set Mismatch.md",
+    "Untitled 1.md",
+    "128. Longest Consecutive Sequence.md",
+    "73 Set Matrices to Zero.md",
+    "48 rotate sorted array.md",
+    "560 Subarray equals sum k.md",
     "118 Pascal's triangle.md",
     "229 Max Element ii.md",
+    "167 two sum ii.md",
+    "15 3 sum Find triplets that add up to a zero.md",
+    "Length of the longest subarray with zero Sum.md",
+    "Count the number of subarrays with given xor K.md",
+    "56. Merge Intervals.md",
+    "88. Merge Sorted Array.md",
     "Pasted image 20251216225800.png",
     "Pasted image 20251220000811.png",
-    "560 Subarray equals sum k.md",
-    "48 rotate sorted array.md",
-    "73 Set Matrices to Zero.md",
-    "128. Longest Consecutive Sequence.md",
     "Leaders in an Array.md",
     "next permutation.md",
     "189 Rotate Array by k.md",
@@ -247,9 +231,6 @@
     "Maximum Subarray sum.md",
     "121 best time to sell stock.md",
     "2149 Rearrange elements by sign.md",
-    "README.md",
-    "second min element.md",
-    "1838. Frequency of the Most Frequent Element.md",
-    "Lab 7.md"
+    "README.md"
   ]
 }
