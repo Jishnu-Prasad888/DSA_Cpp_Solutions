@@ -8,286 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "808e2ff63297438c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "645. Set Mismatch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "645. Set Mismatch"
-            }
-          },
-          {
-            "id": "cde63e5c0f093ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Count inversions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Count inversions"
-            }
-          },
-          {
-            "id": "50732676c403160b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "493. Reverse Pairs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "493. Reverse Pairs"
-            }
-          },
-          {
-            "id": "a9d3aaa1b8d723bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "48 rotate sorted array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "48 rotate sorted array"
-            }
-          },
-          {
-            "id": "b0416b118549cfa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "525 Contiguous Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "525 Contiguous Array"
-            }
-          },
-          {
-            "id": "f049abe686fc464e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "704 Binary Search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "704 Binary Search"
-            }
-          },
-          {
-            "id": "361da76b919363b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "35 Search insert position.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "35 Search insert position"
-            }
-          },
-          {
-            "id": "144e5b039273c68e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floor and Ceil in sorted array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Floor and Ceil in sorted array"
-            }
-          },
-          {
-            "id": "6e5eaac395baa4d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "34. Find First and Last Position of Element in Sorted Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "34. Find First and Last Position of Element in Sorted Array"
-            }
-          },
-          {
-            "id": "f536967dbead0997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "33 Search in Rotated Sorted Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "33 Search in Rotated Sorted Array"
-            }
-          },
-          {
-            "id": "6b5a571658276ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "81 Search Rotated Sorted Array 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "81 Search Rotated Sorted Array 2"
-            }
-          },
-          {
-            "id": "c35685c2d40126a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "153 Find Minimum in rotated sorted array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "153 Find Minimum in rotated sorted array"
-            }
-          },
-          {
-            "id": "f31024f3e9a66456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "540. Single Element in a Sorted Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "540. Single Element in a Sorted Array"
-            }
-          },
-          {
-            "id": "146415357363cc24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "162. Find Peak Element.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "162. Find Peak Element"
-            }
-          },
-          {
-            "id": "44c63b0356594a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Square root of a number.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Square root of a number"
-            }
-          },
-          {
-            "id": "eace138c6c737913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "875. Koko Eating Bananas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "875. Koko Eating Bananas"
-            }
-          },
-          {
-            "id": "271200cbc6666673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1482. Minimum Number of Days to Make m Bouquets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1482. Minimum Number of Days to Make m Bouquets"
-            }
-          },
-          {
-            "id": "4dd5e95498495fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1861. Rotating the Box.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1861. Rotating the Box"
-            }
-          },
-          {
-            "id": "f501067e817aed0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "977. Squares of a Sorted Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "977. Squares of a Sorted Array"
-            }
-          },
-          {
-            "id": "dee21a1d72ab772b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "238. Product of Array Except Self.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "238. Product of Array Except Self"
-            }
-          },
-          {
             "id": "1f4bf5873b49fe85",
             "type": "leaf",
             "state": {
@@ -302,35 +22,115 @@
             }
           },
           {
-            "id": "103f5d02ad8898fd",
+            "id": "c66959b3ed5d324b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uber Arrays Important.md",
+                "file": "1482. Minimum Number of Days to Make m Bouquets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uber Arrays Important"
+              "title": "1482. Minimum Number of Days to Make m Bouquets"
             }
           },
           {
-            "id": "5640485ee04da472",
+            "id": "4dc4ec7fb16e2e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escape from the grid.md",
+                "file": "1283. Find the Smallest Divisor Given a Threshold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escape from the grid"
+              "title": "1283. Find the Smallest Divisor Given a Threshold"
+            }
+          },
+          {
+            "id": "6e3987196bc3d69f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1011. Capacity To Ship Packages Within D Days.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1011. Capacity To Ship Packages Within D Days"
+            }
+          },
+          {
+            "id": "339290d4aecd9ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1539. Kth Missing Positive Number.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1539. Kth Missing Positive Number"
+            }
+          },
+          {
+            "id": "30e431ada3994203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1552. Magnetic Force Between Two Balls.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1552. Magnetic Force Between Two Balls"
+            }
+          },
+          {
+            "id": "384444aefbe20354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "410. Split Array Largest Sum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "410. Split Array Largest Sum"
+            }
+          },
+          {
+            "id": "51435834a3b89570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uber Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uber Interview Questions"
+            }
+          },
+          {
+            "id": "771feecbdf6cfa3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -386,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3b6bc121987d7465",
@@ -468,16 +267,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5640485ee04da472",
+  "active": "771feecbdf6cfa3a",
   "lastOpenFiles": [
-    "Escape from the grid.md",
-    "Uber Arrays Important.md",
+    "Uber Interview Questions.md",
+    "410. Split Array Largest Sum.md",
+    "1552. Magnetic Force Between Two Balls.md",
+    "1539. Kth Missing Positive Number.md",
+    "1011. Capacity To Ship Packages Within D Days.md",
     "HackerEarth quirks.md",
-    "238. Product of Array Except Self.md",
-    "1861. Rotating the Box.md",
-    "977. Squares of a Sorted Array.md",
-    "645. Set Mismatch.md",
+    "Uber Arrays Important.md",
     "1482. Minimum Number of Days to Make m Bouquets.md",
+    "1283. Find the Smallest Divisor Given a Threshold.md",
+    "Solution.md",
+    "Innerve 2.md",
+    "Escape from the grid.md",
+    "djisktra.md",
+    "238. Product of Array Except Self.md",
+    "977. Squares of a Sorted Array.md",
+    "1861. Rotating the Box.md",
     "875. Koko Eating Bananas.md",
     "Square root of a number.md",
     "162. Find Peak Element.md",
@@ -488,15 +295,7 @@
     "34. Find First and Last Position of Element in Sorted Array.md",
     "Floor and Ceil in sorted array.md",
     "35 Search insert position.md",
-    "704 Binary Search.md",
-    "525 Contiguous Array.md",
-    "48 rotate sorted array.md",
-    "152. Maximum Product Subarray.md",
     "Untitled",
-    "493. Reverse Pairs.md",
-    "Count inversions.md",
-    "Untitled 1.md",
-    "128. Longest Consecutive Sequence.md",
     "Pasted image 20251216225800.png",
     "Pasted image 20251220000811.png"
   ]
