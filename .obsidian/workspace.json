@@ -8,104 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f4bf5873b49fe85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackerEarth quirks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HackerEarth quirks"
-            }
-          },
-          {
-            "id": "c66959b3ed5d324b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1482. Minimum Number of Days to Make m Bouquets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1482. Minimum Number of Days to Make m Bouquets"
-            }
-          },
-          {
-            "id": "4dc4ec7fb16e2e50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1283. Find the Smallest Divisor Given a Threshold.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1283. Find the Smallest Divisor Given a Threshold"
-            }
-          },
-          {
-            "id": "6e3987196bc3d69f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1011. Capacity To Ship Packages Within D Days.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1011. Capacity To Ship Packages Within D Days"
-            }
-          },
-          {
-            "id": "339290d4aecd9ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1539. Kth Missing Positive Number.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1539. Kth Missing Positive Number"
-            }
-          },
-          {
-            "id": "30e431ada3994203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1552. Magnetic Force Between Two Balls.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1552. Magnetic Force Between Two Balls"
-            }
-          },
-          {
-            "id": "384444aefbe20354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "410. Split Array Largest Sum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "410. Split Array Largest Sum"
-            }
-          },
-          {
             "id": "51435834a3b89570",
             "type": "leaf",
             "state": {
@@ -120,17 +22,343 @@
             }
           },
           {
-            "id": "771feecbdf6cfa3a",
+            "id": "6ffc18f3672e832f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Median of Sorted Arrays.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Median of Sorted Arrays"
+            }
+          },
+          {
+            "id": "691a0b2d077a6afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "378. Kth Smallest Element in a Sorted Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "378. Kth Smallest Element in a Sorted Matrix"
+            }
+          },
+          {
+            "id": "33dd7f1bd2c4c53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weakest row in a matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weakest row in a matrix"
+            }
+          },
+          {
+            "id": "a0436a0951f97ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Search in 2d matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Search in 2d matrix"
+            }
+          },
+          {
+            "id": "2681baca83f6ca5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1901. Find a Peak Element II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1901. Find a Peak Element II"
+            }
+          },
+          {
+            "id": "c9c7778153aa8bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1021. Remove Outermost Parentheses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1021. Remove Outermost Parentheses"
+            }
+          },
+          {
+            "id": "68f5662174c3786c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "151. Reverse Words in a String.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "151. Reverse Words in a String"
+            }
+          },
+          {
+            "id": "d0de9c44c392d7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1903. Largest Odd Number in String.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1903. Largest Odd Number in String"
+            }
+          },
+          {
+            "id": "755dde3ea3f747a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. Longest Common Prefix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Longest Common Prefix"
+            }
+          },
+          {
+            "id": "164806d4e210d69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "205. Isomorphic Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "205. Isomorphic Strings"
+            }
+          },
+          {
+            "id": "b3e7cf3d0173366f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "796. Rotate String.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "796. Rotate String"
+            }
+          },
+          {
+            "id": "7ef3276b55bf0a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "242. Valid Anagram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "242. Valid Anagram"
+            }
+          },
+          {
+            "id": "f8345a253c3648ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "451. Sort Characters By Frequency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "451. Sort Characters By Frequency"
+            }
+          },
+          {
+            "id": "87ae5a6431871dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Roman to Integer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Roman to Integer"
+            }
+          },
+          {
+            "id": "e092dbdac4a6cac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. String to Integer (atoi).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. String to Integer (atoi)"
+            }
+          },
+          {
+            "id": "645b00acda52b8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "696. Count Binary Substrings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "696. Count Binary Substrings"
+            }
+          },
+          {
+            "id": "8616c1c35851ba1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "237. Delete Node in a Linked List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "237. Delete Node in a Linked List"
+            }
+          },
+          {
+            "id": "8f11eb618c67bb9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Longest Palindrome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Longest Palindrome"
+            }
+          },
+          {
+            "id": "6857cc07d424c1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1781. Sum of Beauty of All Substrings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1781. Sum of Beauty of All Substrings"
+            }
+          },
+          {
+            "id": "0059dca71230f4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "876. Middle of the Linked List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "876. Middle of the Linked List"
+            }
+          },
+          {
+            "id": "f546de2a883d7398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "206. Reverse Linked List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "206. Reverse Linked List"
+            }
+          },
+          {
+            "id": "58c148a6ba7a9da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "141. Linked List Cycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "141. Linked List Cycle"
+            }
+          },
+          {
+            "id": "0f7e5fcdd382b5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "142. Linked List Cycle II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "142. Linked List Cycle II"
+            }
+          },
+          {
+            "id": "4f78c84c235cf211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -267,34 +495,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "771feecbdf6cfa3a",
+  "active": "4f78c84c235cf211",
   "lastOpenFiles": [
+    "142. Linked List Cycle II.md",
+    "Untitled.md",
+    "141. Linked List Cycle.md",
+    "206. Reverse Linked List.md",
+    "876. Middle of the Linked List.md",
+    "Longest Palindrome.md",
+    "Untitled 2.md",
+    "1781. Sum of Beauty of All Substrings.md",
+    "237. Delete Node in a Linked List.md",
+    "696. Count Binary Substrings.md",
+    "8. String to Integer (atoi).md",
+    "13. Roman to Integer.md",
+    "451. Sort Characters By Frequency.md",
+    "242. Valid Anagram.md",
+    "796. Rotate String.md",
+    "205. Isomorphic Strings.md",
+    "14. Longest Common Prefix.md",
+    "1903. Largest Odd Number in String.md",
+    "151. Reverse Words in a String.md",
+    "1021. Remove Outermost Parentheses.md",
+    "1901. Find a Peak Element II.md",
+    "Search in 2d matrix.md",
+    "Weakest row in a matrix.md",
+    "378. Kth Smallest Element in a Sorted Matrix.md",
+    "Median of Sorted Arrays.md",
     "Uber Interview Questions.md",
-    "410. Split Array Largest Sum.md",
-    "1552. Magnetic Force Between Two Balls.md",
-    "1539. Kth Missing Positive Number.md",
-    "1011. Capacity To Ship Packages Within D Days.md",
-    "HackerEarth quirks.md",
-    "Uber Arrays Important.md",
-    "1482. Minimum Number of Days to Make m Bouquets.md",
-    "1283. Find the Smallest Divisor Given a Threshold.md",
-    "Solution.md",
-    "Innerve 2.md",
-    "Escape from the grid.md",
-    "djisktra.md",
-    "238. Product of Array Except Self.md",
-    "977. Squares of a Sorted Array.md",
-    "1861. Rotating the Box.md",
-    "875. Koko Eating Bananas.md",
-    "Square root of a number.md",
-    "162. Find Peak Element.md",
-    "540. Single Element in a Sorted Array.md",
-    "153 Find Minimum in rotated sorted array.md",
-    "81 Search Rotated Sorted Array 2.md",
-    "33 Search in Rotated Sorted Array.md",
-    "34. Find First and Last Position of Element in Sorted Array.md",
-    "Floor and Ceil in sorted array.md",
-    "35 Search insert position.md",
     "Untitled",
     "Pasted image 20251216225800.png",
     "Pasted image 20251220000811.png"
