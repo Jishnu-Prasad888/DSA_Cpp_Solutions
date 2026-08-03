@@ -482,3 +482,17 @@ function minPartition(arr) {
 ```
 
 
+### Implement an async recursive function to find all files in a file system that match a regex pattern.
+
+```javascript
+async function findFilesWithPattern(fs, pattern, currentPath = "") {
+  const fullPath = `${currentPath}/${fs.name}`;
+  if (fs.type === "file") {
+      return pattern.test(fs.name) ? [fullPath] : [];
+    }
+    const results = await Promise.all(
+      fs.children.map(child => findFilesWithPattern(child, pattern, fullPath))
+    );
+    return results.flat();
+ }
+```
