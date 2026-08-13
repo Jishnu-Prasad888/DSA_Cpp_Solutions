@@ -1,0 +1,1 @@
+make sure the main.py is active by clikcing on it and press ctrl+shift+b

@@ -1,0 +1,1 @@
+press ctrl+shift+b with the main.cpp active to run
